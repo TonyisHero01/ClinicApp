@@ -12,7 +12,7 @@ namespace ClinicApp.Views
             InitializeComponent();
         }
 
-        // Kliknutí na tlačítko "Registrovat" – zkontroluje vstupy a uloží nového doktora
+        // Kliknutí na tlačítko "Register" – zkontroluje vstupy a uloží nového doktora
         private void Register_Click(object sender, RoutedEventArgs e)
         {
             string name = NameBox.Text.Trim();
@@ -63,7 +63,7 @@ namespace ClinicApp.Views
             Close();
         }
 
-        // Kliknutí na "Zrušit" – zavře okno bez uložení
+        // Kliknutí na "Cancel" – zavře okno bez uložení
         private void Cancel_Click(object sender, RoutedEventArgs e)
         {
             DialogResult = false;
