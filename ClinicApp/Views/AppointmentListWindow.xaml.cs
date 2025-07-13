@@ -164,7 +164,7 @@ namespace ClinicApp.Views
             }
         }
 
-        // dvojklik na záznam -> detail schůzky
+        // dvojklik na záznam -> detail návštěvy
         private void AppointmentGrid_MouseDoubleClick(object sender, MouseButtonEventArgs e)
         {
             if (AppointmentGrid.SelectedItem is AppointmentRecord selected)
