@@ -36,7 +36,7 @@ namespace ClinicApp.Views
             }
         }
 
-        // Kliknutí na "Zobrazit pacienta" – otevře se detailní okno pacienta
+        // Kliknutí na "View Patient" – otevře se detailní okno pacienta
         private void ViewPatient_Click(object sender, RoutedEventArgs e)
         {
             using var db = new ClinicDbContext();
@@ -52,7 +52,7 @@ namespace ClinicApp.Views
             detailWindow.ShowDialog();
         }
 
-        // Kliknutí na "Najít pacienta" – pokusí se dohledat pacienta a přidat návštěvu
+        // Kliknutí na "Search Patient" – pokusí se dohledat pacienta a přidat návštěvu
         private async void FindPatient_Click(object sender, RoutedEventArgs e)
         {
             // Pokud není zadán e-mail, nelze vyhledávat
