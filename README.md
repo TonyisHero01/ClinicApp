@@ -25,7 +25,7 @@ ClinicApp is a modern desktop application for managing patient appointments, med
 | Frontend       | WPF (.NET 8)                        |
 | Backend        | Entity Framework Core 9             |
 | Database       | PostgreSQL (via Npgsql), SQLite     |
-| PDF Export     | PdfSharpCore, QuestPDF              |
+| PDF Export     | QuestPDF                            |
 | Styling        | MaterialDesignThemes                |
 
 
