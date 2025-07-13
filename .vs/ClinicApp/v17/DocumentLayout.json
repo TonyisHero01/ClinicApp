@@ -1,0 +1,1041 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Programming\\C#\\ClinicApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\clinicapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\clinicapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250713135703_AddVisitTypeToVisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicApp\\Migrations\\20250713135703_AddVisitTypeToVisit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\visitlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\visitlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\visitformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\visitformwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\visitdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\visitdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\superadminregisterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\superadminregisterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\superadminauthwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\superadminauthwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\setunavailabletimewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\setunavailabletimewindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\patientlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\patientlistview.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\patientform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\patientform.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\patientform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\patientform.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\patientdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\patientdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\doctorregisterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctorregisterwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\doctorloginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctorloginwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\appointmentlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\appointmentlistwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\appointmentdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\appointmentdetailwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\mainwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\visitlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\visitlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\visitformwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\visitformwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\visitdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\visitdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\superadminregisterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\superadminregisterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\superadminauthwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\superadminauthwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\setunavailabletimewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\setunavailabletimewindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\patientlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\patientlistview.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\patientdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\patientdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\doctorregisterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctorregisterwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\doctorloginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\doctorloginwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\appointmentdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\appointmentdetailwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\views\\appointmentlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\views\\appointmentlistwindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\config\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\config\\apiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\config\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\config\\dbconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\pdfmergehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\pdfmergehelper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\emailsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\emailsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\services\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\services\\appsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\visit.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\models\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\superadmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\prescription.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\models\\medicaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\medicaltest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\emailsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\doctor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\attachment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\models\\appointmentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\models\\appointmentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\data\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\data\\clinicdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\converters\\rowheightconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\converters\\rowheightconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\converters\\handledtotextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\converters\\handledtotextconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\converters\\fontsizeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\converters\\fontsizeconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\converters\\filenameconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\converters\\filenameconverter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250704101030_InitCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicApp\\Migrations\\20250704101030_InitCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250704100754_InitCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicApp\\Migrations\\20250704100754_InitCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tony\\AppData\\Local\\Temp\\.vsdbgsrc\\2427b4759c2e050d20dccdd5ab42b329148ba9271b0198d6e81a2f6dfbb4a6d8\\SqliteException.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\assemblyinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250417150445_AddMedicalHistoryToPatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicApp\\Migrations\\20250417150445_AddMedicalHistoryToPatient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tony\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250416232403_InitialWithSuperAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicApp\\Migrations\\20250416232403_InitialWithSuperAdmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250416231528_AddSuperAdminTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicApp\\Migrations\\20250416231528_AddSuperAdminTable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250416230206_MakeSpecialtyNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ClinicApp\\Migrations\\20250416230206_MakeSpecialtyNullable.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Tony\\.nuget\\packages\\materialdesigncolors\\5.2.1\\docs\\README.md||{EFC0BB08-EA7D-40C6-A696-C870411A895B}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\clinicapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\clinicapp.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|c:\\programming\\c#\\clinicapp\\clinicapp\\migrations\\20250704101237_createalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9878FCB1-BD9B-4F96-98D9-7D06D903E43E}|ClinicApp\\ClinicApp.csproj|solutionrelative:clinicapp\\migrations\\20250704101237_createalltables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "20250713135703_AddVisitTypeToVisit.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250713135703_AddVisitTypeToVisit.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20250713135703_AddVisitTypeToVisit.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250713135703_AddVisitTypeToVisit.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20250713135703_AddVisitTypeToVisit.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-13T13:57:03.678Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SuperAdminRegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SuperAdminRegisterWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\SuperAdminRegisterWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SuperAdminRegisterWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\SuperAdminRegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T23:08:22.881Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "VisitDetailWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitDetailWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\VisitDetailWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitDetailWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\VisitDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T13:13:12.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "VisitFormWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitFormWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\VisitFormWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitFormWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\VisitFormWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T22:54:10.91Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VisitListWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitListWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\VisitListWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitListWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\VisitListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T22:46:01.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ClinicApp.csproj",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\ClinicApp.csproj",
+              "RelativeDocumentMoniker": "ClinicApp\\ClinicApp.csproj",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\ClinicApp.csproj",
+              "RelativeToolTip": "ClinicApp\\ClinicApp.csproj",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAqwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T23:12:48.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SuperAdminAuthWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SuperAdminAuthWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\SuperAdminAuthWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SuperAdminAuthWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\SuperAdminAuthWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T00:07:01.519Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "SetUnavailableTimeWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SetUnavailableTimeWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\SetUnavailableTimeWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SetUnavailableTimeWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\SetUnavailableTimeWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-12T22:15:21.274Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "PatientListView.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientListView.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\PatientListView.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientListView.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\PatientListView.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T23:18:05.801Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "PatientForm.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientForm.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\PatientForm.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientForm.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\PatientForm.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T23:28:49.711Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "PatientDetailWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientDetailWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\PatientDetailWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientDetailWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\PatientDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T22:41:22.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "DoctorRegisterWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\DoctorRegisterWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\DoctorRegisterWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\DoctorRegisterWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\DoctorRegisterWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-17T00:03:50.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DoctorLoginWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\DoctorLoginWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\DoctorLoginWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\DoctorLoginWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\DoctorLoginWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-16T23:59:30.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "PatientForm.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientForm.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\PatientForm.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientForm.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\PatientForm.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAF0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:28:53.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AppointmentListWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\AppointmentListWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\AppointmentListWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\AppointmentListWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\AppointmentListWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-04T10:45:05.314Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "AppointmentDetailWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\AppointmentDetailWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\AppointmentDetailWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\AppointmentDetailWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\Views\\AppointmentDetailWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-04T11:13:34.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "MainWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\MainWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\MainWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\MainWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\MainWindow.xaml.cs",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAgwFUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T22:55:21.088Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "VisitListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\VisitListWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitListWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\VisitListWindow.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:46:16.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "VisitFormWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitFormWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\VisitFormWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitFormWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\VisitFormWindow.xaml.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAA8wCkBAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:55:11.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "VisitDetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\VisitDetailWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\VisitDetailWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\VisitDetailWindow.xaml.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAjwEsAAABrAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:13:35.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PatientListView.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientListView.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\PatientListView.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientListView.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\PatientListView.xaml.cs",
+              "ViewState": "AgIAAGoAAAAAAAAAAAAYwCAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:18:30.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "SuperAdminRegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SuperAdminRegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\SuperAdminRegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SuperAdminRegisterWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\SuperAdminRegisterWindow.xaml.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAgwD0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:08:41.943Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "SuperAdminAuthWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SuperAdminAuthWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\SuperAdminAuthWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SuperAdminAuthWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\SuperAdminAuthWindow.xaml.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAC4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:07:13.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "SetUnavailableTimeWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SetUnavailableTimeWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\SetUnavailableTimeWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\SetUnavailableTimeWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\SetUnavailableTimeWindow.xaml.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAgwE0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-12T22:15:49.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "PatientDetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\PatientDetailWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\PatientDetailWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\PatientDetailWindow.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T22:41:43.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "DoctorRegisterWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\DoctorRegisterWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\DoctorRegisterWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\DoctorRegisterWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\DoctorRegisterWindow.xaml.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAQwDwAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:04:24.963Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "DoctorLoginWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\DoctorLoginWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\DoctorLoginWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\DoctorLoginWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\DoctorLoginWindow.xaml.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAADsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:59:48.625Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "AppointmentListWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\AppointmentListWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\AppointmentListWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\AppointmentListWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\AppointmentListWindow.xaml.cs",
+              "ViewState": "AgIAAMsAAAAAAAAAAAAAANgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:45:53.455Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "AppointmentDetailWindow.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\AppointmentDetailWindow.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Views\\AppointmentDetailWindow.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Views\\AppointmentDetailWindow.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\Views\\AppointmentDetailWindow.xaml.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAAgwF8AAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:14:06.04Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "DbConfig.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Config\\DbConfig.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Config\\DbConfig.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Config\\DbConfig.cs",
+              "RelativeToolTip": "ClinicApp\\Config\\DbConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T20:23:43.444Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "ApiConfig.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Config\\ApiConfig.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Config\\ApiConfig.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Config\\ApiConfig.cs",
+              "RelativeToolTip": "ClinicApp\\Config\\ApiConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T12:28:48.643Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\MainWindow.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\MainWindow.xaml",
+              "RelativeToolTip": "ClinicApp\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T22:55:26.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "PdfMergeHelper.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\PdfMergeHelper.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\PdfMergeHelper.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\PdfMergeHelper.cs",
+              "RelativeToolTip": "ClinicApp\\PdfMergeHelper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-19T14:51:06.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "emailsettings.json",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\emailsettings.json",
+              "RelativeDocumentMoniker": "ClinicApp\\emailsettings.json",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\emailsettings.json",
+              "RelativeToolTip": "ClinicApp\\emailsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-07-12T23:48:27.255Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "EmailSettings.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\EmailSettings.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\EmailSettings.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\EmailSettings.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\EmailSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T14:30:08.012Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "Doctor.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\Doctor.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Doctor.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\Doctor.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Doctor.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:01:36.383Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "AppSession.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Services\\AppSession.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Services\\AppSession.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Services\\AppSession.cs",
+              "RelativeToolTip": "ClinicApp\\Services\\AppSession.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T11:59:13.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "MedicalTest.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\MedicalTest.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\MedicalTest.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\MedicalTest.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\MedicalTest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:02:19.353Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Visit.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\Visit.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Visit.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\Visit.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Visit.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAowBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:01:13.49Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "SuperAdmin.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\SuperAdmin.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\SuperAdmin.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\SuperAdmin.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\SuperAdmin.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:11:46.515Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Prescription.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\Prescription.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Prescription.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\Prescription.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Prescription.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:01:56.2Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Patient.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\Patient.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Patient.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:00:36.543Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Attachment.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\Attachment.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\Attachment.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\Attachment.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\Attachment.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:02:35.535Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "AppointmentRecord.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\AppointmentRecord.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Models\\AppointmentRecord.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Models\\AppointmentRecord.cs",
+              "RelativeToolTip": "ClinicApp\\Models\\AppointmentRecord.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:56:46.568Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "ClinicDbContext.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Data\\ClinicDbContext.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Data\\ClinicDbContext.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Data\\ClinicDbContext.cs",
+              "RelativeToolTip": "ClinicApp\\Data\\ClinicDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:03:42.395Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "RowHeightConverter.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Converters\\RowHeightConverter.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Converters\\RowHeightConverter.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Converters\\RowHeightConverter.cs",
+              "RelativeToolTip": "ClinicApp\\Converters\\RowHeightConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T20:37:20.204Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "HandledToTextConverter.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Converters\\HandledToTextConverter.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Converters\\HandledToTextConverter.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Converters\\HandledToTextConverter.cs",
+              "RelativeToolTip": "ClinicApp\\Converters\\HandledToTextConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:52:02.613Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "FontSizeConverter.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Converters\\FontSizeConverter.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Converters\\FontSizeConverter.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Converters\\FontSizeConverter.cs",
+              "RelativeToolTip": "ClinicApp\\Converters\\FontSizeConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T20:37:38.272Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "FileNameConverter.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Converters\\FileNameConverter.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Converters\\FileNameConverter.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Converters\\FileNameConverter.cs",
+              "RelativeToolTip": "ClinicApp\\Converters\\FileNameConverter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T13:32:39.59Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\App.xaml.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\App.xaml.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\App.xaml.cs",
+              "RelativeToolTip": "ClinicApp\\App.xaml.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAgwCcAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T23:06:07.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\App.xaml",
+              "RelativeDocumentMoniker": "ClinicApp\\App.xaml",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\App.xaml",
+              "RelativeToolTip": "ClinicApp\\App.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-15T23:05:45.797Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "20250704101030_InitCreate.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250704101030_InitCreate.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20250704101030_InitCreate.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250704101030_InitCreate.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20250704101030_InitCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:10:30.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "SqliteException.cs",
+              "DocumentMoniker": "C:\\Users\\Tony\\AppData\\Local\\Temp\\.vsdbgsrc\\2427b4759c2e050d20dccdd5ab42b329148ba9271b0198d6e81a2f6dfbb4a6d8\\SqliteException.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Tony\\AppData\\Local\\Temp\\.vsdbgsrc\\2427b4759c2e050d20dccdd5ab42b329148ba9271b0198d6e81a2f6dfbb4a6d8\\SqliteException.cs",
+              "ToolTip": "C:\\Users\\Tony\\AppData\\Local\\Temp\\.vsdbgsrc\\2427b4759c2e050d20dccdd5ab42b329148ba9271b0198d6e81a2f6dfbb4a6d8\\SqliteException.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Tony\\AppData\\Local\\Temp\\.vsdbgsrc\\2427b4759c2e050d20dccdd5ab42b329148ba9271b0198d6e81a2f6dfbb4a6d8\\SqliteException.cs [Read Only]",
+              "ViewState": "AgIAABgAAAAAAAAAAAAmwCoAAAACAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:06:47.435Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20250704101237_CreateAllTables.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250704101237_CreateAllTables.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20250704101237_CreateAllTables.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250704101237_CreateAllTables.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20250704101237_CreateAllTables.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:12:37.682Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "20250704100754_InitCreate.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250704100754_InitCreate.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20250704100754_InitCreate.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250704100754_InitCreate.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20250704100754_InitCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T10:07:54.574Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "AssemblyInfo.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\AssemblyInfo.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\AssemblyInfo.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\AssemblyInfo.cs",
+              "RelativeToolTip": "ClinicApp\\AssemblyInfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:55:24.293Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "20250417150445_AddMedicalHistoryToPatient.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250417150445_AddMedicalHistoryToPatient.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20250417150445_AddMedicalHistoryToPatient.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250417150445_AddMedicalHistoryToPatient.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20250417150445_AddMedicalHistoryToPatient.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T15:04:46.059Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ResourcePart.cs",
+              "DocumentMoniker": "C:\\Users\\Tony\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Tony\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ToolTip": "C:\\Users\\Tony\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "RelativeToolTip": "..\\..\\..\\Users\\Tony\\AppData\\Local\\Temp\\.vsdbgsrc\\6b2dfb9d5e4949b718ee78fa9415cabf37518e9447a2764ba224d240518b710f\\ResourcePart.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAmwCcAAAAEAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-17T00:20:35.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20250416232403_InitialWithSuperAdmin.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250416232403_InitialWithSuperAdmin.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20250416232403_InitialWithSuperAdmin.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250416232403_InitialWithSuperAdmin.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20250416232403_InitialWithSuperAdmin.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:24:04.07Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20250416231528_AddSuperAdminTable.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250416231528_AddSuperAdminTable.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20250416231528_AddSuperAdminTable.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250416231528_AddSuperAdminTable.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20250416231528_AddSuperAdminTable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:15:29.06Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20250416230206_MakeSpecialtyNullable.cs",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250416230206_MakeSpecialtyNullable.cs",
+              "RelativeDocumentMoniker": "ClinicApp\\Migrations\\20250416230206_MakeSpecialtyNullable.cs",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\Migrations\\20250416230206_MakeSpecialtyNullable.cs",
+              "RelativeToolTip": "ClinicApp\\Migrations\\20250416230206_MakeSpecialtyNullable.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-16T23:02:06.628Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ClinicApp",
+              "DocumentMoniker": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\ClinicApp.csproj",
+              "RelativeDocumentMoniker": "ClinicApp\\ClinicApp.csproj",
+              "ToolTip": "C:\\Programming\\C#\\ClinicApp\\ClinicApp\\ClinicApp.csproj",
+              "RelativeToolTip": "ClinicApp\\ClinicApp.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-15T23:38:50.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "README.md",
+              "DocumentMoniker": "C:\\Users\\Tony\\.nuget\\packages\\materialdesigncolors\\5.2.1\\docs\\README.md",
+              "RelativeDocumentMoniker": "..\\..\\..\\Users\\Tony\\.nuget\\packages\\materialdesigncolors\\5.2.1\\docs\\README.md",
+              "ToolTip": "C:\\Users\\Tony\\.nuget\\packages\\materialdesigncolors\\5.2.1\\docs\\README.md [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\Users\\Tony\\.nuget\\packages\\materialdesigncolors\\5.2.1\\docs\\README.md [Read Only]",
+              "ViewState": "AgIAAEMAAAAAAAAAAAApwAAAAAAAAAAAAQAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001818|",
+              "WhenOpened": "2025-04-15T23:56:28.493Z",
+              "EditorCaption": " [Read Only]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

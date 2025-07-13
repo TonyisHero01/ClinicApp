@@ -1,0 +1,17 @@
+﻿<Window x:Class="ClinicApp.Views.PatientDetailWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Patient details" Height="300" Width="400" WindowStartupLocation="CenterScreen">
+
+    <ScrollViewer VerticalScrollBarVisibility="Auto">
+        <StackPanel Margin="20">
+            <TextBlock x:Name="FullNameText" FontSize="16" Margin="0,5"/>
+            <TextBlock x:Name="GenderText" Margin="0,5"/>
+            <TextBlock x:Name="BirthDateText" Margin="0,5"/>
+            <TextBlock x:Name="PhoneText" Margin="0,5"/>
+            <TextBlock x:Name="EmailText" Margin="0,5"/>
+            <TextBlock x:Name="MedicalHistoryText" Margin="0,5"/>
+            <Button Content="View medical records" Click="OpenVisitList_Click" Width="189" Margin="0,10,0,0"/>
+        </StackPanel>
+    </ScrollViewer>
+</Window>

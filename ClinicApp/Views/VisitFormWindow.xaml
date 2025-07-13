@@ -1,0 +1,132 @@
+﻿<Window x:Class="ClinicApp.Views.VisitFormWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        Title="New medical records" Height="500" Width="450"
+        WindowStartupLocation="CenterScreen"
+        Background="{DynamicResource MaterialDesignPaper}">
+
+    <Grid Margin="20">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="*"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+
+        <ScrollViewer VerticalScrollBarVisibility="Auto" Grid.Row="0">
+            <StackPanel>
+
+                <DatePicker x:Name="VisitDatePicker"
+                            materialDesign:HintAssist.Hint="Date of visit"
+                            Style="{StaticResource MaterialDesignFloatingHintDatePicker}"
+                            Margin="0,10"/>
+
+                <TextBox x:Name="ReasonBox"
+                         materialDesign:HintAssist.Hint="Reason of visit"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Margin="0,10"/>
+
+                <TextBox x:Name="DiagnosisBox"
+                         materialDesign:HintAssist.Hint="Diagnosis"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Margin="0,10"/>
+                <TextBox x:Name="NotesBox"
+                         materialDesign:HintAssist.Hint="Notes"
+                         Style="{StaticResource MaterialDesignFloatingHintTextBox}"
+                         Margin="0,10"/>
+
+                <ComboBox x:Name="DoctorComboBox"
+                          materialDesign:HintAssist.Hint="Doctor"
+                          Style="{StaticResource MaterialDesignFloatingHintComboBox}"
+                          DisplayMemberPath="Name"
+                          SelectedValuePath="Id"
+                          Margin="0,10"/>
+
+                <TextBlock Text="Prescribing Information"
+                           FontSize="16"
+                           FontWeight="Bold"
+                           Margin="0,20,0,5" />
+
+                <ItemsControl x:Name="PrescriptionList">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="0,5">
+                                <TextBox Width="80" Margin="5,0" Text="{Binding Medication}" materialDesign:HintAssist.Hint="Medication" />
+                                <TextBox Width="60" Margin="5,0" Text="{Binding Dosage}" materialDesign:HintAssist.Hint="Dosage" />
+                                <TextBox Width="60" Margin="5,0" Text="{Binding Frequency}" materialDesign:HintAssist.Hint="Frequency" />
+                                <TextBox Width="60" Margin="5,0" Text="{Binding Duration}" materialDesign:HintAssist.Hint="Duration" />
+                                <TextBox Width="100" Margin="5,0" Text="{Binding Notes}" materialDesign:HintAssist.Hint="Notes" />
+                                <Button Content="🗑" Margin="5,0" Click="DeletePrescription_Click" Tag="{Binding}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+
+                <Button Content="Add Prescription"
+                        Style="{StaticResource MaterialDesignOutlinedButton}"
+                        Margin="0,10"
+                        Click="AddPrescription_Click"/>
+
+                <TextBlock Text="Inspection Items"
+           FontSize="16"
+           FontWeight="Bold"
+           Margin="0,20,0,5" />
+
+                <ItemsControl x:Name="TestList">
+                    <ItemsControl.ItemTemplate>
+                        <DataTemplate>
+                            <StackPanel Orientation="Horizontal" Margin="0,5">
+                                <TextBox Width="100" Margin="5,0" Text="{Binding TestName}" materialDesign:HintAssist.Hint="Test Name" />
+                                <TextBox Width="60" Margin="5,0" Text="{Binding Result}" materialDesign:HintAssist.Hint="Result" />
+                                <TextBox Width="60" Margin="5,0" Text="{Binding Unit}" materialDesign:HintAssist.Hint="Unit" />
+                                <TextBox Width="80" Margin="5,0" Text="{Binding Reference}" materialDesign:HintAssist.Hint="Reference" />
+                                <DatePicker Width="120" Margin="5,0" SelectedDate="{Binding PerformedAt}" />
+                                <Button Content="🗑" Margin="5,0" Click="DeleteTest_Click" Tag="{Binding}" />
+                            </StackPanel>
+                        </DataTemplate>
+                    </ItemsControl.ItemTemplate>
+                </ItemsControl>
+
+                <Button Content="Adding Checks"
+        Style="{StaticResource MaterialDesignOutlinedButton}"
+        Margin="0,10"
+        Click="AddTest_Click" />
+
+                <TextBlock Text="Attachment Information"
+           FontSize="16"
+           FontWeight="Bold"
+           Margin="0,20,0,5" />
+
+                <StackPanel>
+                    <Button Content="Upload Attachments"
+            Style="{StaticResource MaterialDesignOutlinedButton}"
+            Click="UploadAttachment_Click"
+            Margin="0,0,0,10"/>
+
+                    <ItemsControl x:Name="AttachmentList">
+                        <ItemsControl.ItemTemplate>
+                            <DataTemplate>
+                                <TextBlock Text="{Binding FilePath}" Margin="5"/>
+                            </DataTemplate>
+                        </ItemsControl.ItemTemplate>
+                    </ItemsControl>
+                </StackPanel>
+
+
+
+            </StackPanel>
+        </ScrollViewer>
+
+        <StackPanel Grid.Row="1"
+                    Orientation="Horizontal"
+                    HorizontalAlignment="Right"
+                    Margin="0,20,0,0">
+            <Button Content="Save"
+                    Style="{StaticResource MaterialDesignRaisedButton}"
+                    Click="Save_Click"
+                    Margin="0,0,10,0"/>
+            <Button Content="Cancel"
+                    Style="{StaticResource MaterialDesignOutlinedButton}"
+                    Click="Cancel_Click"/>
+        </StackPanel>
+    </Grid>
+</Window>

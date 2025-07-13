@@ -1,0 +1,6 @@
+{
+    "SmtpServer": "<your_smtp_server>",
+    "SmtpPort": "<your_port>",
+    "SenderEmail": "<your_email_address>",
+    "SenderPassword": "<your_app_password>"
+}
