@@ -35,7 +35,7 @@ namespace ClinicApp.Views
             }
         }
 
-        // Kliknutí na tlačítko – otevře seznam návštěv daného pacienta
+        // Kliknutí na tlačítko – View medical records
         private void OpenVisitList_Click(object sender, RoutedEventArgs e)
         {
             var visitWindow = new VisitListWindow(_patientId);
